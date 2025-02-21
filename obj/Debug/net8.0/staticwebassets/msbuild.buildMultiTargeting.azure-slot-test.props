@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\azure-slot-test.props" />
+</Project>
